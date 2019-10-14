@@ -1,5 +1,5 @@
 swagger:
   host: localhost:9022
 
-mes:
-  test: 66
+consumer:
+  test: 666
